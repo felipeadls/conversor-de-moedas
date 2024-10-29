@@ -16,7 +16,7 @@ Execute o programa no terminal ou ambiente de sua escolha.
 - A moeda de destino (ex.: "euro").
 - O valor numérico que deseja converter (ex.: "1000").
 
-## O programa consulta a taxa de câmbio e exibe o valor convertido.
+### O programa consulta a taxa de câmbio e exibe o valor convertido.
 
 # Tecnologias e Dependências
 - Java 11+: Linguagem principal para execução do código.
